@@ -1,0 +1,13 @@
+a apple an Apple
+A apple An apple
+a APPLE an APPLE
+A APPLE AN APPLE
+a cat an cat
+A cat An cat
+a CAT aN CAT
+A CAT AN CAT
+A Apple A Cat
+A Apple A Cat
+a a a a a
+A A A A
+
